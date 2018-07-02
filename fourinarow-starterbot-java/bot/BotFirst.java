@@ -34,6 +34,7 @@ import field.Field;
 
 public class BotFirst implements Bot{
 
+    
     /**
      * Makes a turn. Edit this method to make your bot smarter.
      * @return The column where the turn was made.

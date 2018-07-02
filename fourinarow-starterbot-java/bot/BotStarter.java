@@ -43,9 +43,9 @@ public class BotStarter implements Bot{
          int move = new Random().nextInt(field.getWidth());
          return move;
      }
-     
+     /*
  	public static void main(String[] args) {
  		BotParser parser = new BotParser(new BotStarter());
  		parser.run();
- 	}
+ 	}*/
  }

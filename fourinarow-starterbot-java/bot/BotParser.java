@@ -36,7 +36,7 @@ import player.Player;
 public class BotParser {
     
 	private Scanner scan;
-    private Bot bot;
+    private Bot bot;    // changed, should still work though.
 
     private BotState currentState;
 
